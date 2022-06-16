@@ -1,2 +1,2 @@
-# dio-desafio-github
-Primeiro desafio do Santander Bootcamp Fullstack Developer
+# Desafio de Git da DIO
+Primeiro desafio do Santander Bootcamp Fullstack Developer, realizado na DIO
